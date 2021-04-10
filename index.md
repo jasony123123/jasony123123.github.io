@@ -1,7 +1,22 @@
 ## Jason C. Yuan
 
-Undergrad studying Math and Computer Science at Princeton, graduating in 2023. Also interested in Statistics & Machine Learning and Finance. Previously, did software at Amazon Web Services (AWS), software at [Representable.org](https://representable.org/), and applied math research at Texas State University.
+Undergrad at Princeton graduating in 2023. Majoring in CS; minoring in Math, Statistics, and Finance.
+
+Previously, did software at Amazon Web Services (AWS), software at [Representable.org](https://representable.org/), and applied math research at Texas State University.
+
+[**Resume**]()
+
+## Some Projects
+
+asdasd
+
+asdasd
+
+asdasd
 
 ## Contact
 
-Please feel free to reach out to me: [jcyuan@princeton.edu](to:jcyuan@princeton.edu) 
+Please feel free to reach out to me.
+
+[jcyuan@princeton.edu](mailto:jcyuan@princeton.edu) 
+[Linkedin](https://www.linkedin.com/in/jasoncyuan/)
