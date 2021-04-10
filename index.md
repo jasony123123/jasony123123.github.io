@@ -16,6 +16,6 @@ My [Resume](/assets/resume-quant-4-4-21.pdf).
 
 Please feel free to reach out to me.
 
-[jcyuan@princeton.edu](mailto:jcyuan@princeton.edu)
+[Email](mailto:jcyuan@princeton.edu)
 
 [Linkedin](https://www.linkedin.com/in/jasoncyuan/)
