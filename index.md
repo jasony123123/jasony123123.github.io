@@ -1,4 +1,4 @@
-## Jason C. Yuan
+## About
 
 Undergrad at Princeton graduating in 2023. Majoring in CS; minoring in Math, Statistics, and Finance.
 
@@ -6,7 +6,7 @@ Previously, did software at Amazon Web Services (AWS), software at [Representabl
 
 My [Resume](/assets/resume-quant-4-4-21.pdf).
 
-## Some Projects
+## Highlighted Work
 
 asdasd
 
