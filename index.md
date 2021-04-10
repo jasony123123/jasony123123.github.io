@@ -18,4 +18,4 @@ Please feel free to reach out to me.
 
 [Email](mailto:jcyuan@princeton.edu)
 
-[Linkedin](https://www.linkedin.com/in/jasoncyuan/)
+[LinkedIn](https://www.linkedin.com/in/jasoncyuan/)
