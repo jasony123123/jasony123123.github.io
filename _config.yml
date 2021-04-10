@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
 title: The-Title
 description: The-Description
-logo: https://static.wikia.nocookie.net/dogelore/images/9/97/Doge.jpg/revision/latest/top-crop/width/360/height/450?cb=20190205113053
-show_downloads: true
+logo: /assets/headshot.jpg
+show_downloads: false
