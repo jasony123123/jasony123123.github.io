@@ -4,8 +4,6 @@ Undergrad at Princeton graduating in 2023. Majoring in CS; minoring in Math, Sta
 
 Previously, did software engineering at Amazon Web Services (AWS), software engineering at Representable, and applied math research at Texas State University.
 
-My [Resume](/assets/resume-quant-4-4-21.pdf).
-
 ## Highlighted Work
 
 [**Representable.org**](https://representable.org/) - Working on an open-source platform that helps nonprofits fight gerrymandering across the United States. Backed by The Princeton Gerrymandering Project and Schmidt Futures. See code [here](https://github.com/Representable/representable).
